@@ -2,6 +2,9 @@
 
 CrashTest32 is an open-source Windows BSOD testing utility.
 
+# ScreenShot:
+![CrashTest32 UI](screenshot.png)
+
 ## What does it do?
 
 CrashTest32 intentionally triggers a Windows bugcheck (Blue Screen of Death) for:
