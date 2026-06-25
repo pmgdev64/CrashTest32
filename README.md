@@ -1,2 +1,20 @@
 # CrashTest32
-Open-source BSOD trigger tool for Windows. Designed for crash dump testing, debugging practice, and educational research. Intentionally crashes the system when activated.
+
+CrashTest32 is an open-source Windows BSOD testing utility.
+
+## What does it do?
+
+CrashTest32 intentionally triggers a Windows bugcheck (Blue Screen of Death) for:
+
+- Crash dump generation
+- WinDbg debugging practice
+- BSOD testing
+- Educational research
+
+## Warning
+
+This software intentionally crashes Windows.
+
+Save all work before using it.
+
+Administrator privileges are required.
